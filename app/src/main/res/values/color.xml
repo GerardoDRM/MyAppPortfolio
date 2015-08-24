@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#2196F3</color>
+    <color name="button_pressed">#64B5F6</color>
+    <color name="button_focused">#90CAF9</color>
+    <color name="button_default">#BBDEFB</color>
+    <color name="button_pressed_myapp">#303F9F</color>
+    <color name="button_focused_myapp">#3949AB</color>
+    <color name="button_default_myapp">#3F51B5</color>
+</resources>
